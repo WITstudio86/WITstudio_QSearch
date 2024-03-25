@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "6ca5c832308f6d86",
+    "type": "split",
+    "children": [
+      {
+        "id": "c26747d316dfc46f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7188868e690697d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🔧工具与资源/git/001- git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f58440b3bb6c827b",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa46788816fb9849",
+        "type": "tabs",
+        "dimension": 62.40530303030303,
+        "children": [
+          {
+            "id": "1d131f24fa763878",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2b6226d1b148cec8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d35fc79aa7977e18",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "1084fa699657774c",
+        "type": "tabs",
+        "dimension": 37.59469696969697,
+        "children": [
+          {
+            "id": "7f517a9db0d9d9fb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 247.5
+  },
+  "right": {
+    "id": "33b6ba02df4e743c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed969ac839cec934",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e75542fc80a141b4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "🔧工具与资源/git/001- git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d901ae1647015412",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "🔧工具与资源/git/001- git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "23cbfa9e3d335bdf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6ea28e103577ddc4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "🔧工具与资源/git/001- git.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "random-note:开始漫游笔记": false,
+      "audio-recorder:开始/结束录音": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "7188868e690697d9",
+  "lastOpenFiles": [
+    "demo",
+    "🔧工具与资源/git/最小配置.md",
+    "🔧工具与资源/git/001- git.md",
+    "未命名/未命名.md",
+    "未命名",
+    "未命名.canvas",
+    "🔧工具与资源/git",
+    "Welcome.md",
+    "📝输出",
+    "未命名文件夹",
+    "🔧工具与资源/网页剪藏-MaoXian.md",
+    "🔧工具与资源/github 访问工具.md",
+    "🔧工具与资源/startship终端.md",
+    "🔧工具与资源/Z-library书籍.md",
+    "🔧工具与资源",
+    "🔧工具",
+    "📚其他积累/🍓树莓派/🍓树莓派系统烧录.md",
+    "📚其他积累/🍓树莓派/🍓树莓派.md",
+    "📚其他积累/🍓树莓派/树莓派连接 wifi.md",
+    "📚其他积累/🍓树莓派/树莓派开启 SSH.md",
+    "📚其他积累/🍓树莓派/s,v,g怎么连.md",
+    "📚其他积累/🍓树莓派",
+    "📚其他积累"
+  ]
+}

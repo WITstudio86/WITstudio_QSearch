@@ -1,11 +1,12 @@
 {
   "strictLineBreaks": true,
-  "showLineNumber": true,
+  "showLineNumber": false,
   "spellcheck": false,
   "autoPairBrackets": false,
-  "vimMode": true,
+  "vimMode": false,
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
   "newLinkFormat": "relative",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "./附件"
 }

@@ -11,8 +11,12 @@
             "id": "d10ddddeba59b5de",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "容器/Docker/000-Docker.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -97,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "容器/Docker/000-Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "容器/Docker/000-Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "容器/Docker/000-Docker.md"
+              }
             }
           }
         ]
@@ -158,6 +166,9 @@
   },
   "active": "d10ddddeba59b5de",
   "lastOpenFiles": [
+    "容器/Docker/000-Docker.md",
+    "容器/Docker",
+    "容器",
     "📚其他积累/👩🏻‍🏫英文学习/【终极英文书单】闲书原著推荐——从入门到进阶.md",
     "🔧工具与资源/Z-library书籍.md",
     "🔧工具与资源/startship终端.md",
@@ -199,11 +210,8 @@
     "Excalidraw/Drawing 2024-03-26 14.44.03.excalidraw.md",
     "资源/Excalidraw",
     "资源",
-    "Excalidraw",
     "Excalidraw/Drawing 2024-03-26 13.15.12.excalidraw.md",
     "demo/readme.md",
-    "demo/readme",
-    "未命名/未命名.md",
     "未命名.canvas"
   ]
 }

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e9ac0b1cdf78127a",
+        "id": "75d41229cc04cc77",
         "type": "tabs",
         "children": [
           {
-            "id": "d10ddddeba59b5de",
+            "id": "df8c2d6c27913771",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔧工具与资源/git/分支.md",
+                "file": "🔧工具与资源/zellij终端复用.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔧工具与资源/git/分支.md",
+                "file": "🔧工具与资源/zellij终端复用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔧工具与资源/git/分支.md",
+                "file": "🔧工具与资源/zellij终端复用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔧工具与资源/git/分支.md"
+                "file": "🔧工具与资源/zellij终端复用.md"
               }
             }
           }
@@ -164,14 +164,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d10ddddeba59b5de",
+  "active": "df8c2d6c27913771",
   "lastOpenFiles": [
+    "🔧工具与资源/Z-library书籍.md",
+    "🔧工具与资源/github 访问工具.md",
+    "🔧工具与资源/模拟终端 alacritty.md",
+    "🔧工具与资源/zellij终端复用.md",
+    "🔧工具与资源/git/分支.md",
     "🔧工具与资源/git/001- git.md",
     "容器/Docker/000-Docker.md",
     "容器/Docker",
     "容器",
     "📚其他积累/👩🏻‍🏫英文学习/【终极英文书单】闲书原著推荐——从入门到进阶.md",
-    "🔧工具与资源/Z-library书籍.md",
     "🔧工具与资源/startship终端.md",
     "📚其他积累/👩🏻‍🏫英文学习/assets/1712043584-fb42c4bb7078749f84009566f851bc97.avif",
     "📚其他积累/👩🏻‍🏫英文学习/assets/1712043584-f973cb22a22fb2af01518ba6bd851a4d.avif",
@@ -192,7 +196,6 @@
     "附件/Pasted image 20240327134118.png.md",
     "🔧工具与资源/git/标签.md",
     "🔧工具与资源/git/多人协作.md",
-    "🔧工具与资源/git/分支.md",
     "🔧工具与资源/git/将提交合并到分支.md",
     "🔧工具与资源/git/暂存工作现场.md",
     "🔧工具与资源/git/暂存区.md",
@@ -207,11 +210,8 @@
     "资源/Excalidraw/Drawing 2024-03-26 15.45.51.excalidraw.md",
     "资源/Excalidraw/Drawing 2024-03-26 15.01.40.excalidraw.md",
     "🔧工具与资源/git/附件",
-    "Excalidraw/Drawing 2024-03-26 14.44.03.excalidraw.md",
     "资源/Excalidraw",
     "资源",
-    "Excalidraw/Drawing 2024-03-26 13.15.12.excalidraw.md",
-    "demo/readme.md",
     "未命名.canvas"
   ]
 }

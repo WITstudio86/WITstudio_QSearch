@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔧工具与资源/ranger 终端文件管理.md",
+                "file": "🔧工具与资源/fish-shell 开箱即用的 shell.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔧工具与资源/ranger 终端文件管理.md",
+                "file": "🔧工具与资源/fish-shell 开箱即用的 shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔧工具与资源/ranger 终端文件管理.md",
+                "file": "🔧工具与资源/fish-shell 开箱即用的 shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔧工具与资源/ranger 终端文件管理.md"
+                "file": "🔧工具与资源/fish-shell 开箱即用的 shell.md"
               }
             }
           }
@@ -166,7 +166,10 @@
   },
   "active": "f11bacf65c1f7bc1",
   "lastOpenFiles": [
+    "🔧工具与资源/附件/Pasted image 20240420111928.png",
+    "🔧工具与资源/附件",
     "🔧工具与资源/ranger 终端文件管理.md",
+    "🔧工具与资源/fish-shell 开箱即用的 shell.md",
     "🔧工具与资源/zellij终端复用.md",
     "🔧工具与资源/Z-library书籍.md",
     "🔧工具与资源/startship终端.md",
@@ -207,11 +210,8 @@
     "附件",
     "demo/README.md",
     "demo",
-    "🔧工具与资源/git/初始化到提交.md",
-    "🔧工具与资源/git/文件名变更.md",
     "🔧工具与资源/git/附件",
     "资源/Excalidraw",
-    "资源",
     "未命名.canvas"
   ]
 }

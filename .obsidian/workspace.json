@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔧工具与资源/fish-shell 开箱即用的 shell.md",
+                "file": "🔧工具与资源/alacritty 模拟终端.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔧工具与资源/fish-shell 开箱即用的 shell.md",
+                "file": "🔧工具与资源/alacritty 模拟终端.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔧工具与资源/fish-shell 开箱即用的 shell.md",
+                "file": "🔧工具与资源/alacritty 模拟终端.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔧工具与资源/fish-shell 开箱即用的 shell.md"
+                "file": "🔧工具与资源/alacritty 模拟终端.md"
               }
             }
           }
@@ -166,10 +166,11 @@
   },
   "active": "f11bacf65c1f7bc1",
   "lastOpenFiles": [
+    "🔧工具与资源/zsh的简洁配置.md",
+    "🔧工具与资源/fish-shell 开箱即用的 shell.md",
     "🔧工具与资源/附件/Pasted image 20240420111928.png",
     "🔧工具与资源/附件",
     "🔧工具与资源/ranger 终端文件管理.md",
-    "🔧工具与资源/fish-shell 开箱即用的 shell.md",
     "🔧工具与资源/zellij终端复用.md",
     "🔧工具与资源/Z-library书籍.md",
     "🔧工具与资源/startship终端.md",
@@ -191,7 +192,6 @@
     "📚其他积累/👩🏻‍🏫英文学习/assets/1712043584-7174e66a46f1fe652f35da15f12f3f00.avif",
     "📚其他积累/👩🏻‍🏫英文学习/assets/1712043584-517e0dc14e5e48e2e673e17f1f72e607.avif",
     "📚其他积累/👩🏻‍🏫英文学习/assets/1712043584-4cb935420512c21c8cfb167ec0c05172.webp",
-    "📚其他积累/👩🏻‍🏫英文学习/assets/1712043584-00f1db53c132385e63d074e4ba1ef120.avif",
     "📚其他积累/👩🏻‍🏫英文学习/assets",
     "📚其他积累/👩🏻‍🏫英文学习/附件/index.md",
     "📚其他积累/👩🏻‍🏫英文学习/未命名.md",

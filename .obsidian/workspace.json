@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "🔧工具与资源/ranger 终端文件管理.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "🔧工具与资源/ranger 终端文件管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "🔧工具与资源/ranger 终端文件管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "🔧工具与资源/ranger 终端文件管理.md"
               }
             }
           }
@@ -166,8 +166,8 @@
   },
   "active": "f11bacf65c1f7bc1",
   "lastOpenFiles": [
-    "工具.canvas",
     "README.md",
+    "工具.canvas",
     "🔧工具与资源/github 访问工具.md",
     "🔧工具与资源/MaoXian-网页剪藏.md",
     "🔧工具与资源/alacritty 模拟终端.md",

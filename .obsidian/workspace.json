@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔧工具与资源/alacritty 模拟终端.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 272.5
   },
   "right": {
     "id": "33b6ba02df4e743c",
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔧工具与资源/alacritty 模拟终端.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔧工具与资源/alacritty 模拟终端.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔧工具与资源/alacritty 模拟终端.md"
+                "file": "README.md"
               }
             }
           }
@@ -166,6 +166,11 @@
   },
   "active": "f11bacf65c1f7bc1",
   "lastOpenFiles": [
+    "工具.canvas",
+    "README.md",
+    "🔧工具与资源/github 访问工具.md",
+    "🔧工具与资源/MaoXian-网页剪藏.md",
+    "🔧工具与资源/alacritty 模拟终端.md",
     "🔧工具与资源/zsh的简洁配置.md",
     "🔧工具与资源/fish-shell 开箱即用的 shell.md",
     "🔧工具与资源/附件/Pasted image 20240420111928.png",
@@ -174,9 +179,6 @@
     "🔧工具与资源/zellij终端复用.md",
     "🔧工具与资源/Z-library书籍.md",
     "🔧工具与资源/startship终端.md",
-    "🔧工具与资源/github 访问工具.md",
-    "🔧工具与资源/MaoXian-网页剪藏.md",
-    "🔧工具与资源/alacritty 模拟终端.md",
     "🔧工具与资源/git/分支.md",
     "🔧工具与资源/git/001- git.md",
     "容器/Docker/000-Docker.md",
@@ -197,7 +199,6 @@
     "📚其他积累/👩🏻‍🏫英文学习/未命名.md",
     "📚其他积累/👩🏻‍🏫英文学习/附件",
     "📚其他积累/👩🏻‍🏫英文学习",
-    "README.md",
     "附件/Pasted image 20240327134118.png.md",
     "🔧工具与资源/git/标签.md",
     "🔧工具与资源/git/多人协作.md",
@@ -208,10 +209,8 @@
     "🔧工具与资源/git/变更重置.md",
     "🔧工具与资源/git/基础指令.md",
     "附件",
-    "demo/README.md",
     "demo",
     "🔧工具与资源/git/附件",
-    "资源/Excalidraw",
-    "未命名.canvas"
+    "资源/Excalidraw"
   ]
 }

@@ -93,6 +93,22 @@ sudo apt-get install xlsx2csv   # xlsx预览
 - `s`开头主要是`排序`，后面跟一些排序规则
 - `z`开头主要是`设置`，后面跟一些具体要设置什么
 - `.`开头主要是`文件过滤`，后面跟一些过滤规则筛选出满足条件的文件或目录
+## 修改默认的编辑器
+1. **设置环境变量**：在终端中，你可以通过以下命令临时设置`EDITOR`环境变量为`nvim`：
+    
+    `export EDITOR='nvim'`
+    
+    这将仅对当前终端会话有效。
+    
+2. **永久设置环境变量**：要永久设置`EDITOR`环境变量，你可以将其添加到你的用户配置文件中，比如`.bashrc`、`.bash_profile`、`.zshrc`等，这取决于你使用的shell。以下是添加到`.bashrc`的示例：
+    
+    `echo 'export EDITOR="nvim"' >> ~/.bashrc source ~/.bashrc`
+    
+    请根据你使用的shell替换相应的配置文件。
+    
+3. **验证环境变量**：你可以使用`echo $EDITOR`命令来验证`EDITOR`环境变量是否已经设置为`nvim`。
+    
+4. **测试编辑器设置**：在`ranger`中，尝试使用`:edit <filename>`命令来编辑一个文件，看看是否用`nvim`打开。
 
 ## 配置
 ranger默认情况下不会生成配置文件，需要手动生成（拷贝）：

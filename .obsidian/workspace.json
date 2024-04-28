@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ae8bd815ca4f3a67",
+        "id": "f1380df2ed08509d",
         "type": "tabs",
         "children": [
           {
-            "id": "f11bacf65c1f7bc1",
+            "id": "0f9b08c7358461a8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🔧工具与资源/ranger 终端文件管理.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -101,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔧工具与资源/ranger 终端文件管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔧工具与资源/ranger 终端文件管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "🔧工具与资源/ranger 终端文件管理.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -164,12 +156,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f11bacf65c1f7bc1",
+  "active": "0f9b08c7358461a8",
   "lastOpenFiles": [
+    "🔧工具与资源/ranger 终端文件管理.md",
     "💻阅读学习/🦀Rust 程序设计第二版/001-导览/002-assert.md",
     "💻阅读学习/🦀Rust 程序设计第二版/001-导览/003-测试.md",
     "💻阅读学习/🦀Rust 程序设计第二版/001-导览/001-安装与简单配置.md",
-    "🔧工具与资源/ranger 终端文件管理.md",
     "💻阅读学习/🦀Rust 程序设计第二版/001-导览",
     "💻阅读学习/🦀Rust 程序设计第二版",
     "💻阅读学习",

@@ -11,8 +11,12 @@
             "id": "0f9b08c7358461a8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "💻阅读学习/🦀Rust 程序设计第二版/001-导览/003-测试.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -97,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "💻阅读学习/🦀Rust 程序设计第二版/001-导览/003-测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "💻阅读学习/🦀Rust 程序设计第二版/001-导览/003-测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "💻阅读学习/🦀Rust 程序设计第二版/001-导览/003-测试.md"
+              }
             }
           }
         ]

@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"ea94b37dded6ba08","type":"group","x":-380,"y":-320,"width":860,"height":740,"color":"6","label":"🔧工具"},
+		{"id":"b0cec2f28d797ee7","type":"group","x":-360,"y":-260,"width":460,"height":420,"color":"5","label":"git"},
+		{"id":"1e3a443c7fb4ff48","type":"group","x":-360,"y":223,"width":820,"height":177,"color":"6","label":"其他"},
+		{"id":"8454c442e77b89c6","type":"group","x":120,"y":-260,"width":340,"height":420,"color":"4","label":"工作流"},
+		{"id":"2b3c5bd5e0f9f52f","type":"text","text":"[001- git](工具与资源/git/001-%20git.md)","x":-340,"y":-240,"width":154,"height":60},
+		{"id":"46476070631552e1","type":"text","text":"[变更重置](工具与资源/git/变更重置.md)","x":-340,"y":-160,"width":131,"height":60},
+		{"id":"b5db4c76812f857c","type":"text","text":"[标签](工具与资源/git/标签.md)","x":-340,"y":-80,"width":99,"height":60},
+		{"id":"85eaa3afd117d7c9","type":"text","text":"[多人协作](工具与资源/git/多人协作.md)","x":-340,"y":0,"width":131,"height":60},
+		{"id":"64f54096831d2cb4","type":"text","text":"[分支](工具与资源/git/分支.md)","x":-340,"y":80,"width":99,"height":60},
+		{"id":"75eb5d9b45b040cc","type":"text","text":"[暂存工作现场](工具与资源/git/暂存工作现场.md)","x":-120,"y":-240,"width":163,"height":60},
+		{"id":"41fc6da4675e077f","type":"text","text":"[暂存区](工具与资源/git/暂存区.md)","x":-120,"y":-160,"width":115,"height":50},
+		{"id":"9e25ce81afd26169","type":"text","text":"[合并冲突](工具与资源/git/合并冲突.md)","x":-120,"y":-80,"width":131,"height":60},
+		{"id":"aed032648d239b3a","type":"text","text":"[基础指令](工具与资源/git/基础指令.md)","x":-120,"y":0,"width":131,"height":60},
+		{"id":"711e94c60535cd0f","type":"text","text":"[将提交合并到分支](工具与资源/git/将提交合并到分支.md)","x":-120,"y":80,"width":195,"height":60},
+		{"id":"27e68f9fadf121dc","type":"text","text":"[alacritty 模拟终端](工具与资源/alacritty%20模拟终端.md)","x":160,"y":-240,"width":250,"height":60},
+		{"id":"9be157a57ce3e7f4","type":"text","text":"[ranger 终端文件管理](工具与资源/ranger%20终端文件管理.md)","x":160,"y":-160,"width":250,"height":60},
+		{"id":"57a5ca385eb74e72","type":"text","text":"[startship终端](工具与资源/startship终端.md)","x":160,"y":-80,"width":250,"height":60},
+		{"id":"ed89bd476e528307","type":"text","text":"[zellij终端复用](工具与资源/zellij终端复用.md)","x":160,"y":0,"width":250,"height":60},
+		{"id":"632ceb00fdc8b6dd","type":"text","text":"[zsh的简洁配置](工具与资源/zsh的简洁配置.md)","x":160,"y":80,"width":250,"height":60},
+		{"id":"ded6eee0d189c118","type":"text","text":"[github 访问工具](工具与资源/github%20访问工具.md)","x":-340,"y":240,"width":250,"height":60},
+		{"id":"f38e9eb1fa1814c4","type":"text","text":"[MaoXian-网页剪藏](工具与资源/MaoXian-网页剪藏.md)","x":-340,"y":320,"width":250,"height":60},
+		{"id":"ee4fc8fdb540889b","type":"text","text":"[Z-library书籍](工具与资源/Z-library书籍.md)","x":-54,"y":240,"width":250,"height":60}
+	],
+	"edges":[]
+}

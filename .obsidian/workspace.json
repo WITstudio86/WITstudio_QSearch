@@ -11,14 +11,11 @@
             "id": "f06f567f90c6da23",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "笔记盒子.canvas",
-                "viewState": {
-                  "x": 515.8980895293831,
-                  "y": 433.3033685636533,
-                  "zoom": -1.2909464518229168
-                }
+                "file": "其他积累/Python/tkinter 安排.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -104,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记盒子.canvas",
+                "file": "其他积累/Python/tkinter 安排.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记盒子.canvas",
+                "file": "其他积累/Python/tkinter 安排.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,16 +141,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记盒子.canvas"
+                "file": "其他积累/Python/tkinter 安排.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 277.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,10 +164,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f06f567f90c6da23",
+  "active": "6ea28e103577ddc4",
   "lastOpenFiles": [
-    "其他积累/Python/tkinter 安排.md",
     "笔记盒子.canvas",
+    "其他积累/Python/tkinter 安排.md",
     "README.md",
     "未命名 1.canvas",
     "其他积累/英文学习/【终极英文书单】闲书原著推荐——从入门到进阶.md",

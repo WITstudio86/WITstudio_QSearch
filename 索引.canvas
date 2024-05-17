@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"05fd724db57f4441","x":-740,"y":-560,"width":400,"height":400,"color":"4","type":"file","file":"索引页/工具.canvas"},
+		{"id":"245ec2610a14a3c6","x":-300,"y":-560,"width":400,"height":400,"color":"5","type":"file","file":"索引页/阅读.canvas"}
+	],
+	"edges":[]
+}

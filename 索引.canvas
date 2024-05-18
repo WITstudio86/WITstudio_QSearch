@@ -1,7 +1,18 @@
 {
 	"nodes":[
-		{"id":"05fd724db57f4441","x":-740,"y":-560,"width":400,"height":400,"color":"4","type":"file","file":"索引页/工具.canvas"},
-		{"id":"245ec2610a14a3c6","x":-300,"y":-560,"width":400,"height":400,"color":"5","type":"file","file":"索引页/阅读.canvas"}
+		{"id":"d8acbfaa8cd838b5","type":"group","x":-420,"y":-780,"width":683,"height":685,"color":"1","label":"索引"},
+		{"id":"523bb19bf8bbeecc","type":"text","text":"![](附件/工具.canvas)","x":-380,"y":-760,"width":125,"height":60,"color":"2"},
+		{"id":"eafe981618641918","type":"text","text":"阅读","x":-380,"y":-660,"width":125,"height":60,"color":"2"},
+		{"id":"c900990bcd87cb4f","type":"text","text":"![](附件/Rust%20程序设计%202阅读.canvas)","x":-140,"y":-720,"width":250,"height":60,"color":"3"},
+		{"id":"4341f59b481860a0","type":"text","text":"其他积累","x":-380,"y":-540,"width":140,"height":60,"color":"2"},
+		{"id":"42dc095b2ef741d5","type":"text","text":"![](附件/树莓派.canvas)","x":-140,"y":-630,"width":250,"height":60,"color":"3"},
+		{"id":"987f61881c2eae2b","type":"text","text":"[【终极英文书单】闲书原著推荐——从入门到进阶](其他积累/英文学习/【终极英文书单】闲书原著推荐——从入门到进阶.md)","x":-15,"y":-540,"width":250,"height":60,"color":"3"},
+		{"id":"dc69eb6282ed987b","type":"text","text":"[tkinter 上课安排](其他积累/Python/tkinter%20安排.md)","x":-140,"y":-460,"width":243,"height":60,"color":"3"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"6f473dac5e355f2d","fromNode":"4341f59b481860a0","fromSide":"right","toNode":"42dc095b2ef741d5","toSide":"left"},
+		{"id":"cd83543650970b01","fromNode":"4341f59b481860a0","fromSide":"right","toNode":"987f61881c2eae2b","toSide":"left"},
+		{"id":"8da151f169fa28b5","fromNode":"4341f59b481860a0","fromSide":"right","toNode":"dc69eb6282ed987b","toSide":"left"},
+		{"id":"84288bf0af422fe0","fromNode":"eafe981618641918","fromSide":"right","toNode":"c900990bcd87cb4f","toSide":"left"}
+	]
 }

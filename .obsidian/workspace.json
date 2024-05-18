@@ -15,8 +15,8 @@
               "state": {
                 "file": "索引.canvas",
                 "viewState": {
-                  "x": 7015.837156222375,
-                  "y": 1564.2909554531268,
+                  "x": 7605.161698622827,
+                  "y": 1538.0649055634074,
                   "zoom": -2.8257080078125
                 }
               }
@@ -104,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "索引.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +120,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "索引.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +141,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "索引.canvas"
-              }
+              "state": {}
             }
           }
         ],
@@ -168,10 +164,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0fa1855795d18798",
+  "active": "7f517a9db0d9d9fb",
   "lastOpenFiles": [
-    "附件/工具.canvas",
     "索引.canvas",
+    "附件/工具.canvas",
     "工具与资源/编辑器/vscode vim.md",
     "工具与资源/工作流",
     "工具与资源/编辑器",

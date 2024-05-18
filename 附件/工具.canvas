@@ -19,7 +19,8 @@
 		{"id":"cfa17bf5bdc367ff","type":"file","file":"工具与资源/git/暂存区.md","x":1516,"y":-520,"width":400,"height":400},
 		{"id":"7953cb52e4952840","type":"file","file":"工具与资源/git/暂存工作现场.md","x":1071,"y":-520,"width":400,"height":400},
 		{"id":"be04492ca089aa85","type":"file","file":"工具与资源/git/将提交合并到分支.md","x":626,"y":-520,"width":400,"height":400},
-		{"id":"87c76d4b86432e69","type":"file","file":"工具与资源/git/基础指令.md","x":181,"y":-520,"width":400,"height":400}
+		{"id":"87c76d4b86432e69","type":"file","file":"工具与资源/git/基础指令.md","x":181,"y":-520,"width":400,"height":400},
+		{"id":"8d6c542d1f8a6bf2","x":2040,"y":0,"width":400,"height":400,"type":"file","file":"工具与资源/编辑器/vscode vim.md"}
 	],
 	"edges":[]
 }

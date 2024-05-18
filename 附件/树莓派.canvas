@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"e806777df7daf6f1","x":-322,"y":-222,"width":400,"height":400,"type":"file","file":"其他积累/树莓派/树莓派开启 SSH.md"},
-		{"id":"b93eb27edae9916a","x":123,"y":-222,"width":400,"height":400,"type":"file","file":"其他积累/树莓派/树莓派连接 wifi.md"},
-		{"id":"a2a5056f2a5b14d1","x":568,"y":-222,"width":400,"height":400,"type":"file","file":"其他积累/树莓派/树莓派系统烧录.md"},
-		{"id":"260968483b1aec02","x":1013,"y":-222,"width":400,"height":400,"type":"file","file":"其他积累/树莓派/s,v,g怎么连.md"}
-	],
-	"edges":[]
-}

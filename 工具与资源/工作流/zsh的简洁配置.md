@@ -20,5 +20,5 @@ source /usr/local/Cellar/autojump/22.5.3_3/share/autojump/autojump.zsh
 
   > 具体地址在使用 brew 安装的时候可以看到
   
-> 完整的工作流还包含: [ranger 终端文件管理](ranger%20终端文件管理.md) [startship终端](startship终端.md) [zellij终端复用](zellij终端复用.md)
+> 完整的工作流还包含: [ranger 终端文件管理](工作流/ranger%20终端文件管理.md) [startship终端](工作流/startship终端.md) [zellij终端复用](工作流/zellij终端复用.md)
 

@@ -11,14 +11,11 @@
             "id": "0fa1855795d18798",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "索引.canvas",
-                "viewState": {
-                  "x": 7605.161698622827,
-                  "y": 1538.0649055634074,
-                  "zoom": -2.8257080078125
-                }
+                "file": "其他积累/Python/tkinter 安排.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -104,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "其他积累/Python/tkinter 安排.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "其他积累/Python/tkinter 安排.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "其他积累/Python/tkinter 安排.md"
+              }
             }
           }
         ],
@@ -164,7 +165,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7f517a9db0d9d9fb",
+  "active": "0fa1855795d18798",
   "lastOpenFiles": [
     "索引.canvas",
     "附件/工具.canvas",

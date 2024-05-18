@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "290c9b573c750ca3",
+        "id": "7f1b3b670ed515eb",
         "type": "tabs",
         "children": [
           {
-            "id": "f06f567f90c6da23",
+            "id": "0fa1855795d18798",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "附件/工具.canvas",
-                "viewState": {
-                  "x": 1098,
-                  "y": -310,
-                  "zoom": -1.3496670964429656
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -104,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "附件/工具.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "附件/工具.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "附件/工具.canvas"
-              }
+              "state": {}
             }
           }
         ],
@@ -168,13 +157,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f06f567f90c6da23",
+  "active": "0fa1855795d18798",
   "lastOpenFiles": [
+    "附件/工具.canvas",
     "索引.canvas",
     "其他积累/Python/tkinter 安排.md",
     "附件/树莓派.canvas",
     "附件/Rust 程序设计 2阅读.canvas",
-    "附件/工具.canvas",
     "附件/截屏2024-05-17 17.53.09.png",
     "附件",
     "索引页",

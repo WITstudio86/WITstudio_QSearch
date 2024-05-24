@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "其他积累/Rust/range语法的步长.md",
+                "file": "其他积累/Rust/获取输入.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他积累/Rust/range语法的步长.md",
+                "file": "其他积累/Rust/获取输入.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "其他积累/Rust/range语法的步长.md",
+                "file": "其他积累/Rust/获取输入.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他积累/Rust/range语法的步长.md"
+                "file": "其他积累/Rust/获取输入.md"
               }
             }
           }
@@ -167,10 +167,10 @@
   },
   "active": "0fa1855795d18798",
   "lastOpenFiles": [
+    "其他积累/Rust/range语法的步长.md",
     "其他积累/Rust/配置 cargo build 的目标地址.md",
     "其他积累/Rust/获取输入.md",
     "其他积累/Rust/随机数.md",
-    "其他积累/Rust/range语法的步长.md",
     "阅读学习/Rust 程序设计第二版/003-所有权与移动/001-未命名.md",
     "其他积累/Rust/未命名",
     "阅读学习/Rust 程序设计语言",

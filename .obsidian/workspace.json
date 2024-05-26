@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "其他积累/Rust/输入输出/实现Display.md",
+                "file": "其他积累/Rust/输入输出/格式化.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他积累/Rust/输入输出/实现Display.md",
+                "file": "其他积累/Rust/输入输出/格式化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "其他积累/Rust/输入输出/实现Display.md",
+                "file": "其他积累/Rust/输入输出/格式化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他积累/Rust/输入输出/实现Display.md"
+                "file": "其他积累/Rust/输入输出/格式化.md"
               }
             }
           }
@@ -166,8 +166,9 @@
   },
   "active": "0fa1855795d18798",
   "lastOpenFiles": [
-    "其他积累/Python/tkinter 安排.md",
     "其他积累/Rust/输入输出/实现Display.md",
+    "其他积累/Rust/输入输出/格式化.md",
+    "其他积累/Python/tkinter 安排.md",
     "其他积累/Rust/Range/倒序 Range.md",
     "其他积累/Rust/Range/range语法的步长.md",
     "其他积累/Rust/Range",
@@ -208,7 +209,6 @@
     "未命名 1.canvas",
     "其他积累/英文学习/【终极英文书单】闲书原著推荐——从入门到进阶.md",
     "其他积累/树莓派/树莓派.md",
-    "其他积累/树莓派/🍓树莓派系统烧录.md",
     "📚其他积累/🐍Python/assets/1714817099-f220c9bc2f8147e9d4e396d578a23fbb.png",
     "📚其他积累/🐍Python/assets/1714817099-f179f872929e747991ebb3bdb21ddfe8.png",
     "📚其他积累/🐍Python/assets/1714817099-e3bd9494efcafca9c25d7d7af983092c.png",

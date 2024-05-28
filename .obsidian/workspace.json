@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "其他积累/Rust/自定义类型/Self和&self.md",
+                "file": "其他积累/Rust/自定义类型/枚举可以携带值.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他积累/Rust/自定义类型/Self和&self.md",
+                "file": "其他积累/Rust/自定义类型/枚举可以携带值.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "其他积累/Rust/自定义类型/Self和&self.md",
+                "file": "其他积累/Rust/自定义类型/枚举可以携带值.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他积累/Rust/自定义类型/Self和&self.md"
+                "file": "其他积累/Rust/自定义类型/枚举可以携带值.md"
               }
             }
           }
@@ -166,8 +166,10 @@
   },
   "active": "0fa1855795d18798",
   "lastOpenFiles": [
-    "其他积累/Rust/自定义类型/结构体解构.md",
+    "其他积累/Rust/自定义类型/use enum.md",
+    "其他积累/Rust/自定义类型/枚举可以携带值.md",
     "其他积累/Rust/自定义类型/Self和&self.md",
+    "其他积累/Rust/自定义类型/结构体解构.md",
     "其他积累/Python/tkinter 安排.md",
     "其他积累/Rust/自定义类型",
     "其他积累/Rust/输入输出/将用空格分隔的输入存入数组.md",
@@ -206,8 +208,6 @@
     "工具与资源/编辑器/vscode vim.md",
     "附件/树莓派.canvas",
     "附件/Rust 程序设计 2阅读.canvas",
-    "工具与资源/工作流/alacritty 模拟终端.md",
-    "README.md",
     "未命名 1.canvas",
     "📚其他积累/🐍Python/assets/1714817099-f220c9bc2f8147e9d4e396d578a23fbb.png",
     "📚其他积累/🐍Python/assets/1714817099-f179f872929e747991ebb3bdb21ddfe8.png",

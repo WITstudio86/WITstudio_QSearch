@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "其他积累/Rust/自定义类型/枚举可以携带值.md",
+                "file": "其他积累/Rust/自定义类型/enum 链表 (未完).md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他积累/Rust/自定义类型/枚举可以携带值.md",
+                "file": "其他积累/Rust/自定义类型/enum 链表 (未完).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "其他积累/Rust/自定义类型/枚举可以携带值.md",
+                "file": "其他积累/Rust/自定义类型/enum 链表 (未完).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他积累/Rust/自定义类型/枚举可以携带值.md"
+                "file": "其他积累/Rust/自定义类型/enum 链表 (未完).md"
               }
             }
           }
@@ -166,8 +166,9 @@
   },
   "active": "0fa1855795d18798",
   "lastOpenFiles": [
-    "其他积累/Rust/自定义类型/use enum.md",
     "其他积累/Rust/自定义类型/枚举可以携带值.md",
+    "其他积累/Rust/自定义类型/enum 链表 (未完).md",
+    "其他积累/Rust/自定义类型/use enum.md",
     "其他积累/Rust/自定义类型/Self和&self.md",
     "其他积累/Rust/自定义类型/结构体解构.md",
     "其他积累/Python/tkinter 安排.md",
@@ -205,7 +206,6 @@
     "未命名.md",
     "其他积累/私有部署/nextcloud 私有部署()docker.md",
     "附件/工具.canvas",
-    "工具与资源/编辑器/vscode vim.md",
     "附件/树莓派.canvas",
     "附件/Rust 程序设计 2阅读.canvas",
     "未命名 1.canvas",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "积累/Rust/变量常量/变量冻结 (局部不可变).md",
+                "file": "积累/Rust/自定义类型/类型重命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 279.5
   },
   "right": {
     "id": "33b6ba02df4e743c",
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "积累/Rust/变量常量/变量冻结 (局部不可变).md",
+                "file": "积累/Rust/自定义类型/类型重命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "积累/Rust/变量常量/变量冻结 (局部不可变).md",
+                "file": "积累/Rust/自定义类型/类型重命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "积累/Rust/变量常量/变量冻结 (局部不可变).md"
+                "file": "积累/Rust/自定义类型/类型重命名.md"
               }
             }
           }
@@ -166,8 +166,12 @@
   },
   "active": "0fa1855795d18798",
   "lastOpenFiles": [
-    "积累/Rust/变量常量/常量.md",
+    "积累/Rust/库/std/获取数据所占字节.md",
+    "积累/Rust/自定义类型/类型重命名.md",
+    "积累/Rust/库/from crates",
+    "积累/Rust/库/std",
     "积累/Rust/变量常量/变量冻结 (局部不可变).md",
+    "积累/Rust/变量常量/常量.md",
     "积累/Rust/变量常量/未命名",
     "积累/Rust/自定义类型/enum 链表 (未完).md",
     "积累/Rust/变量常量",
@@ -189,22 +193,18 @@
     "积累/Rust/配置",
     "积累/Rust/输入输出",
     "积累/Rust/String",
-    "积累/Rust/Vec",
     "积累/Rust/Vec/Vec中是否包含某元素.md",
     "积累/Rust/输入输出/获取输入.md",
     "积累/Rust/配置/配置 cargo build 的目标地址.md",
-    "积累/Rust/库/随机数.md",
+    "积累/Rust/库/from crates/随机数.md",
     "阅读学习/Rust 程序设计第二版/003-所有权与移动/001-未命名.md",
-    "阅读学习/Rust 程序设计语言",
     "阅读学习/Rust 入门到实践/000-语言基础.md",
     "附件/截屏2024-05-17 17.53.09.png",
     "附件/25121716432367_.pic.jpg",
     "阅读学习/Rust 程序设计第二版/002-基本类型/010-字符串.md",
     "阅读学习/Rust 程序设计第二版/002-基本类型/011-类型别名.md",
     "阅读学习/Rust 程序设计第二版/002-基本类型/009-向量.md",
-    "阅读学习/Rust 程序设计第二版/002-基本类型/005-字符.md",
     "索引.canvas",
-    "工具与资源/Z-library书籍.md",
     "附件/工具.canvas",
     "附件/树莓派.canvas",
     "附件/Rust 程序设计 2阅读.canvas",

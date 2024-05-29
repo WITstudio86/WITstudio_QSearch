@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "其他积累/Rust/自定义类型/enum 链表 (未完).md",
+                "file": "Rust/变量常量/常量.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他积累/Rust/自定义类型/enum 链表 (未完).md",
+                "file": "Rust/变量常量/常量.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "其他积累/Rust/自定义类型/enum 链表 (未完).md",
+                "file": "Rust/变量常量/常量.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他积累/Rust/自定义类型/enum 链表 (未完).md"
+                "file": "Rust/变量常量/常量.md"
               }
             }
           }
@@ -164,47 +164,47 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0fa1855795d18798",
+  "active": "1d131f24fa763878",
   "lastOpenFiles": [
-    "其他积累/Rust/自定义类型/枚举可以携带值.md",
-    "其他积累/Rust/自定义类型/enum 链表 (未完).md",
-    "其他积累/Rust/自定义类型/use enum.md",
-    "其他积累/Rust/自定义类型/Self和&self.md",
-    "其他积累/Rust/自定义类型/结构体解构.md",
+    "Rust/自定义类型/enum 链表 (未完).md",
+    "Rust/变量常量/常量.md",
+    "Rust/变量常量",
+    "Rust/自定义类型/枚举可以携带值.md",
+    "Rust/自定义类型/use enum.md",
+    "Rust/自定义类型/Self和&self.md",
+    "Rust/自定义类型/结构体解构.md",
     "其他积累/Python/tkinter 安排.md",
-    "其他积累/Rust/自定义类型",
-    "其他积累/Rust/输入输出/将用空格分隔的输入存入数组.md",
-    "其他积累/Rust/String/访问string中的字符.md",
-    "其他积累/Rust/Range/倒序 Range.md",
-    "其他积累/Rust/Range/range语法的步长.md",
-    "其他积累/Rust/输入输出/格式化.md",
-    "其他积累/Rust/输入输出/实现Display.md",
-    "其他积累/Rust/Range",
-    "其他积累/Rust/Vec/Vec 查找元素索引.md",
-    "其他积累/Rust/库",
-    "其他积累/Rust/配置",
-    "其他积累/Rust/输入输出",
-    "其他积累/Rust/String",
-    "其他积累/Rust/Vec",
-    "其他积累/Rust/Vec/Vec中是否包含某元素.md",
-    "其他积累/Rust/输入输出/获取输入.md",
-    "其他积累/Rust/配置/配置 cargo build 的目标地址.md",
-    "其他积累/Rust/库/随机数.md",
+    "Rust/自定义类型",
+    "Rust/输入输出/将用空格分隔的输入存入数组.md",
+    "Rust/String/访问string中的字符.md",
+    "Rust/Range/倒序 Range.md",
+    "Rust/Range/range语法的步长.md",
+    "Rust/输入输出/格式化.md",
+    "Rust/输入输出/实现Display.md",
+    "Rust/Range",
+    "Rust/Vec/Vec 查找元素索引.md",
+    "Rust/库",
+    "Rust/配置",
+    "Rust/输入输出",
+    "Rust/String",
+    "Rust/Vec",
+    "Rust/Vec/Vec中是否包含某元素.md",
+    "Rust/输入输出/获取输入.md",
+    "Rust/配置/配置 cargo build 的目标地址.md",
+    "Rust/库/随机数.md",
     "阅读学习/Rust 程序设计第二版/003-所有权与移动/001-未命名.md",
     "阅读学习/Rust 程序设计语言",
     "阅读学习/Rust 入门到实践/000-语言基础.md",
     "附件/截屏2024-05-17 17.53.09.png",
     "附件/25121716432367_.pic.jpg",
     "阅读学习/Rust 程序设计第二版/002-基本类型/010-字符串.md",
-    "其他积累/Rust",
-    "阅读学习/Rust 入门到实践",
+    "Rust",
     "阅读学习/Rust 程序设计第二版/002-基本类型/011-类型别名.md",
     "阅读学习/Rust 程序设计第二版/002-基本类型/009-向量.md",
     "阅读学习/Rust 程序设计第二版/002-基本类型/005-字符.md",
     "索引.canvas",
     "工具与资源/Z-library书籍.md",
     "未命名.md",
-    "其他积累/私有部署/nextcloud 私有部署()docker.md",
     "附件/工具.canvas",
     "附件/树莓派.canvas",
     "附件/Rust 程序设计 2阅读.canvas",

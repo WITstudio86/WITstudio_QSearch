@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "积累/Rust/Trait/限制整数.md",
+                "file": "积累/Rust/Trait/ToString Trait.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
       {
         "id": "aa46788816fb9849",
         "type": "tabs",
-        "dimension": 68.68571428571428,
+        "dimension": 77.14285714285715,
         "children": [
           {
             "id": "1d131f24fa763878",
@@ -71,7 +71,7 @@
       {
         "id": "1084fa699657774c",
         "type": "tabs",
-        "dimension": 31.314285714285717,
+        "dimension": 22.857142857142858,
         "children": [
           {
             "id": "7f517a9db0d9d9fb",
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "积累/Rust/Trait/限制整数.md",
+                "file": "积累/Rust/Trait/ToString Trait.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "积累/Rust/Trait/限制整数.md",
+                "file": "积累/Rust/Trait/ToString Trait.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "积累/Rust/Trait/限制整数.md"
+                "file": "积累/Rust/Trait/ToString Trait.md"
               }
             }
           }
@@ -166,12 +166,14 @@
   },
   "active": "0fa1855795d18798",
   "lastOpenFiles": [
+    "积累/Rust/Trait/限制数字.md",
+    "积累/Rust/Trait/ToString Trait.md",
+    "积累/Rust/Trait/ToString Trait.md",
+    "积累/Rust/类型/自定义类型转换.md",
+    "Pasted image 20240529155711.png",
     "积累/Rust/库/from crates/num.md",
-    "积累/Rust/类型/自定义 From 和 Into.md",
-    "积累/Rust/Trait/限制整数.md",
     "积累/Rust/类型",
     "积累/Rust/变量常量/变量冻结 (局部不可变).md",
-    "Pasted image 20240529155711.png",
     "积累/Rust/自定义类型/类型重命名.md",
     "积累/Rust/Trait",
     "积累/Rust/库/std/获取数据所占字节.md",
@@ -201,8 +203,6 @@
     "积累/Rust/输入输出/获取输入.md",
     "积累/Rust/配置/配置 cargo build 的目标地址.md",
     "积累/Rust/库/from crates/随机数.md",
-    "阅读学习/Rust 程序设计第二版/003-所有权与移动/001-未命名.md",
-    "阅读学习/Rust 入门到实践/000-语言基础.md",
     "附件/截屏2024-05-17 17.53.09.png",
     "附件/25121716432367_.pic.jpg",
     "索引.canvas",

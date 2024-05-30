@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "积累/Rust/Trait/ToString Trait.md",
+                "file": "阅读学习/Rust 程序设计第二版/001-导览/001-安装与简单配置.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "积累/Rust/Trait/ToString Trait.md",
+                "file": "阅读学习/Rust 程序设计第二版/001-导览/001-安装与简单配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "积累/Rust/Trait/ToString Trait.md",
+                "file": "阅读学习/Rust 程序设计第二版/001-导览/001-安装与简单配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "积累/Rust/Trait/ToString Trait.md"
+                "file": "阅读学习/Rust 程序设计第二版/001-导览/001-安装与简单配置.md"
               }
             }
           }
@@ -166,9 +166,8 @@
   },
   "active": "0fa1855795d18798",
   "lastOpenFiles": [
+    "积累/Rust/Trait/ToString Trait.md",
     "积累/Rust/Trait/限制数字.md",
-    "积累/Rust/Trait/ToString Trait.md",
-    "积累/Rust/Trait/ToString Trait.md",
     "积累/Rust/类型/自定义类型转换.md",
     "Pasted image 20240529155711.png",
     "积累/Rust/库/from crates/num.md",

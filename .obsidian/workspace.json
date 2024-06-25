@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阅读学习/rust第一课/001 前置篇/001-堆,栈.md",
+                "file": "阅读学习/rust第一课/001 前置篇/002-编程中的基本概念.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "阅读学习/rust第一课/001 前置篇/001-堆,栈.md",
+                "file": "阅读学习/rust第一课/001 前置篇/002-编程中的基本概念.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "阅读学习/rust第一课/001 前置篇/001-堆,栈.md",
+                "file": "阅读学习/rust第一课/001 前置篇/002-编程中的基本概念.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "阅读学习/rust第一课/001 前置篇/001-堆,栈.md"
+                "file": "阅读学习/rust第一课/001 前置篇/002-编程中的基本概念.md"
               }
             }
           }
@@ -167,8 +167,9 @@
   },
   "active": "2f9103f90e640e91",
   "lastOpenFiles": [
-    "未命名.canvas",
     "阅读学习/rust第一课/001 前置篇/001-堆,栈.md",
+    "阅读学习/rust第一课/001 前置篇/002-编程中的基本概念.md",
+    "未命名.canvas",
     "阅读学习/rust第一课/001 前置篇",
     "阅读学习/rust第一课",
     "阅读学习/Rust 程序设计第二版/002-基本类型/附件/Pasted image 20240430215518.png",

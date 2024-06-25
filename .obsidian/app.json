@@ -8,7 +8,7 @@
   "newFileLocation": "current",
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,
-  "attachmentFolderPath": "./.attachments",
+  "attachmentFolderPath": "./附件",
   "pdfExportSettings": {
     "pageSize": "Letter",
     "landscape": false,

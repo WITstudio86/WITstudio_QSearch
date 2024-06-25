@@ -11,8 +11,12 @@
             "id": "2f9103f90e640e91",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "阅读学习/rust第一课/001 前置篇/001-堆,栈.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -97,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "阅读学习/rust第一课/001 前置篇/001-堆,栈.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "阅读学习/rust第一课/001 前置篇/001-堆,栈.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.canvas"
+                "file": "阅读学习/rust第一课/001 前置篇/001-堆,栈.md"
               }
             }
           }
@@ -159,9 +165,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1d131f24fa763878",
+  "active": "2f9103f90e640e91",
   "lastOpenFiles": [
     "未命名.canvas",
+    "阅读学习/rust第一课/001 前置篇/001-堆,栈.md",
+    "阅读学习/rust第一课/001 前置篇",
+    "阅读学习/rust第一课",
     "阅读学习/Rust 程序设计第二版/002-基本类型/附件/Pasted image 20240430215518.png",
     "阅读学习/Rust 程序设计第二版/002-基本类型/附件",
     "阅读学习/Rust 程序设计第二版/002-基本类型/011-类型别名.md",
@@ -203,10 +212,7 @@
     "积累/Rust/自定义类型/枚举可以携带值.md",
     "积累/Rust/自定义类型/use enum.md",
     "积累/Rust/自定义类型/enum 链表 (未完).md",
-    "积累/Rust/自定义类型/Self和&self.md",
     "积累/Rust/库/std",
-    "积累/Rust/库/from crates",
-    "积累/Rust/配置",
     "索引.canvas",
     "附件/工具.canvas",
     "附件/树莓派.canvas",

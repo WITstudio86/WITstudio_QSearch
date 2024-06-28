@@ -11,8 +11,12 @@
             "id": "ecad816f7e52f834",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "阅读学习/rust第一课/002 基础篇/002-实用 cli 小工具.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -97,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "阅读学习/rust第一课/002 基础篇/002-实用 cli 小工具.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "阅读学习/rust第一课/002 基础篇/002-实用 cli 小工具.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "阅读学习/rust第一课/002 基础篇/002-实用 cli 小工具.md"
+              }
             }
           }
         ],
@@ -159,6 +167,10 @@
   },
   "active": "ecad816f7e52f834",
   "lastOpenFiles": [
+    "积累/Rust/Cargo/指令.md",
+    "阅读学习/rust第一课/002 基础篇/002-实用 cli 小工具.md",
+    "积累/Rust/未命名",
+    "阅读学习/rust第一课/002 基础篇",
     "阅读学习/rust第一课/001 前置篇/002-编程中的基本概念.md",
     "阅读学习/rust第一课/001 前置篇/附件/Pasted image 20240625172909.png",
     "阅读学习/rust第一课/001 前置篇/附件",
@@ -188,8 +200,6 @@
     "阅读学习/Rust 程序设计第二版/002-基本类型",
     "阅读学习/Rust 程序设计第二版/001-导览",
     "阅读学习/Rust 程序设计语言",
-    "阅读学习/Rust 程序设计第二版",
-    "阅读学习",
     "积累/Rust/库/from crates/随机数.md",
     "积累/Rust/库/from crates/num.md",
     "积累/Rust/库/std/获取数据所占字节.md",
@@ -204,7 +214,6 @@
     "积累/Rust/自定义类型/结构体解构.md",
     "积累/Rust/自定义类型/类型重命名.md",
     "积累/Rust/自定义类型/枚举可以携带值.md",
-    "积累/Rust/自定义类型/use enum.md",
     "索引.canvas",
     "附件/工具.canvas",
     "附件/树莓派.canvas",

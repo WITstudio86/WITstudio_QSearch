@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9c8c5da21190b188",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,7 +176,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ecad816f7e52f834",
+  "active": "9c8c5da21190b188",
   "lastOpenFiles": [
     "积累/Rust/Cargo/指令.md",
     "阅读学习/rust第一课/002 基础篇/002-实用 cli 小工具.md",

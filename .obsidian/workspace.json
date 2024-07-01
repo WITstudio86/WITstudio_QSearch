@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "阅读学习/rust第一课/002 基础篇/002-实用 cli 小工具.md",
+                "file": "阅读学习/rust第一课/002 基础篇/003-图片服务器.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "阅读学习/rust第一课/002 基础篇/002-实用 cli 小工具.md",
+                "file": "阅读学习/rust第一课/002 基础篇/003-图片服务器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "阅读学习/rust第一课/002 基础篇/002-实用 cli 小工具.md",
+                "file": "阅读学习/rust第一课/002 基础篇/003-图片服务器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "阅读学习/rust第一课/002 基础篇/002-实用 cli 小工具.md"
+                "file": "阅读学习/rust第一课/002 基础篇/003-图片服务器.md"
               }
             }
           }
@@ -168,6 +168,7 @@
   "active": "c304455e6d484e19",
   "lastOpenFiles": [
     "阅读学习/rust第一课/002 基础篇/002-实用 cli 小工具.md",
+    "阅读学习/rust第一课/002 基础篇/003-图片服务器.md",
     "积累/Rust/Cargo/指令.md",
     "积累/Rust/未命名",
     "阅读学习/rust第一课/002 基础篇",
@@ -213,7 +214,6 @@
     "积累/Python/assets/1714817099-b9fce67115862fffad8262c1d5d6da98.png",
     "积累/Rust/自定义类型/结构体解构.md",
     "积累/Rust/自定义类型/类型重命名.md",
-    "积累/Rust/自定义类型/枚举可以携带值.md",
     "索引.canvas",
     "附件/工具.canvas",
     "附件/树莓派.canvas",

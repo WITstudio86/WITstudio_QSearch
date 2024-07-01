@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "20f6aeb4dc63fc08",
+        "id": "1a186d844b04e07e",
         "type": "tabs",
         "children": [
           {
-            "id": "ecad816f7e52f834",
+            "id": "c304455e6d484e19",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "阅读学习/rust第一课/002 基础篇/002-实用 cli 小工具.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c8c5da21190b188",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "阅读学习/rust第一课/002 基础篇/002-实用 cli 小工具.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "阅读学习/rust第一课/002 基础篇/002-实用 cli 小工具.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "阅读学习/rust第一课/002 基础篇/002-实用 cli 小工具.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -176,10 +157,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9c8c5da21190b188",
+  "active": "c304455e6d484e19",
   "lastOpenFiles": [
-    "积累/Rust/Cargo/指令.md",
     "阅读学习/rust第一课/002 基础篇/002-实用 cli 小工具.md",
+    "积累/Rust/Cargo/指令.md",
     "积累/Rust/未命名",
     "阅读学习/rust第一课/002 基础篇",
     "阅读学习/rust第一课/001 前置篇/002-编程中的基本概念.md",

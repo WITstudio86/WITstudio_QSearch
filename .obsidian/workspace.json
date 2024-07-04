@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习/Rust/String/其他字符串Path,OsString等.md",
+                "file": "学习/Rust/Option和Result/在不使用 expect 等解包的情况下操作值的方法.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习/Rust/String/其他字符串Path,OsString等.md",
+                "file": "学习/Rust/Option和Result/在不使用 expect 等解包的情况下操作值的方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习/Rust/String/其他字符串Path,OsString等.md",
+                "file": "学习/Rust/Option和Result/在不使用 expect 等解包的情况下操作值的方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习/Rust/String/其他字符串Path,OsString等.md"
+                "file": "学习/Rust/Option和Result/在不使用 expect 等解包的情况下操作值的方法.md"
               }
             }
           }
@@ -167,8 +167,10 @@
   },
   "active": "c304455e6d484e19",
   "lastOpenFiles": [
-    "学习/Rust/自定义类型/impl与泛型.md",
     "学习/Rust/String/其他字符串Path,OsString等.md",
+    "学习/Rust/Option和Result/在不使用 expect 等解包的情况下操作值的方法.md",
+    "学习/Rust/Option和Result",
+    "学习/Rust/自定义类型/impl与泛型.md",
     "学习/Rust/迭代器/统计数量.md",
     "学习/Rust/String/字符串按照字符切割.md",
     "学习/Rust/String/访问string中的字符.md",
@@ -204,8 +206,6 @@
     "阅读学习/Rust 程序设计第二版/002-基本类型/006-元组.md",
     "阅读学习/Rust 程序设计第二版/002-基本类型/005-字符.md",
     "阅读学习/Rust 程序设计第二版/002-基本类型/004 布尔.md",
-    "阅读学习/Rust 程序设计第二版/002-基本类型/003-浮点数.md",
-    "阅读学习/Rust 程序设计第二版/003-所有权与移动",
     "积累/Python/assets/1714817099-f220c9bc2f8147e9d4e396d578a23fbb.png",
     "积累/Python/assets/1714817099-f179f872929e747991ebb3bdb21ddfe8.png",
     "积累/Python/assets/1714817099-e3bd9494efcafca9c25d7d7af983092c.png",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习/Rust/String/字符串按照字符切割.md",
+                "file": "学习/Rust/String/其他字符串Path,OsString等.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习/Rust/String/字符串按照字符切割.md",
+                "file": "学习/Rust/String/其他字符串Path,OsString等.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习/Rust/String/字符串按照字符切割.md",
+                "file": "学习/Rust/String/其他字符串Path,OsString等.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习/Rust/String/字符串按照字符切割.md"
+                "file": "学习/Rust/String/其他字符串Path,OsString等.md"
               }
             }
           }
@@ -167,8 +167,10 @@
   },
   "active": "c304455e6d484e19",
   "lastOpenFiles": [
-    "学习/Rust/String/访问string中的字符.md",
+    "学习/Rust/迭代器/统计数量.md",
+    "学习/Rust/String/其他字符串Path,OsString等.md",
     "学习/Rust/String/字符串按照字符切割.md",
+    "学习/Rust/String/访问string中的字符.md",
     "学习/Rust/String/字节数组与字符串的转换.md",
     "学习/Rust/迭代器/累加等累计算.md",
     "学习/Rust/mod/mod 使用.md",
@@ -203,8 +205,6 @@
     "阅读学习/Rust 程序设计第二版/002-基本类型/004 布尔.md",
     "阅读学习/Rust 程序设计第二版/002-基本类型/003-浮点数.md",
     "阅读学习/Rust 程序设计第二版/002-基本类型/002-运算溢出.md",
-    "阅读学习/Rust 程序设计第二版/002-基本类型/001-整形.md",
-    "阅读学习/Rust 程序设计第二版/003-所有权与移动/001-未命名.md",
     "阅读学习/Rust 程序设计第二版/003-所有权与移动",
     "积累/Python/assets/1714817099-f220c9bc2f8147e9d4e396d578a23fbb.png",
     "积累/Python/assets/1714817099-f179f872929e747991ebb3bdb21ddfe8.png",

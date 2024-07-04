@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习/Rust/mod/mod 使用.md",
+                "file": "学习/Rust/迭代器/累加等累计算.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习/Rust/mod/mod 使用.md",
+                "file": "学习/Rust/迭代器/累加等累计算.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习/Rust/mod/mod 使用.md",
+                "file": "学习/Rust/迭代器/累加等累计算.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习/Rust/mod/mod 使用.md"
+                "file": "学习/Rust/迭代器/累加等累计算.md"
               }
             }
           }
@@ -167,8 +167,8 @@
   },
   "active": "c304455e6d484e19",
   "lastOpenFiles": [
-    "学习/Rust/迭代器/累加等累计算.md",
     "学习/Rust/mod/mod 使用.md",
+    "学习/Rust/迭代器/累加等累计算.md",
     "学习/Rust/库/std/获取数据所占字节.md",
     "学习/Rust/mod",
     "学习/Rust/Trait/限制数字.md",

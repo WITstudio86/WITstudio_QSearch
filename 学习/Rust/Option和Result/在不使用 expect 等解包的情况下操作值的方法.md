@@ -77,11 +77,54 @@ fn main() {
 
 ### replace
 - 将 some 中的值抛出并替换
+	- 闭包不可用
 ```rust
 
-```
-```rust
+fn main() {
+    let mut opt = Option::Some(32);
 
-```
+    let old = opt.replace(64);
+    println!("old: {:?}, opt: {:?}", old, opt);
 
+    // let old = opt.replace(|x| x * 2);
+    // println!("old: {:?}, opt: {:?}", old, opt);
+}
+```
 ### and_then
+
+- 在 Option 的结果为`Some` 的时候执行闭包参数返回闭包执行的结果
+	- 注意返回的结果需要是`Option<T>` 
+
+```rust
+fn main() {
+    let opt = Option::Some(32);
+    let result = opt.and_then(|x| Some(x * 2));
+
+    println!("opt:{:?}, Result:{:?}", opt,result);
+    // opt:Some(32), Result:Some(64)
+
+    let result = opt.and_then(|x| Option::<i32>::None);
+    println!("opt:{:?}, Result:{:?}", opt,result);
+    // opt:Some(32), Result:None
+}
+```
+
+## Result
+
+- `map , is_ok , is_err , as_ref , as_mut ,and_then` 等与 Option 相同
+
+### map_err
+- 在 err 的时候, 返回包裹闭包参数返回值信息的新 Err
+
+
+```rust
+fn main() {
+    let mut rus = Result::<i32,String>::Err("Error".to_owned());
+
+    let new_err = rus.as_mut().map_err(|x| format!("new error message: {x}"));
+    assert_eq!(new_err,Err("new error message: Error".to_owned()));
+
+    assert_eq!(&rus,&Err("Error".to_owned()));
+}
+```
+

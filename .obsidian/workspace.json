@@ -167,8 +167,9 @@
   },
   "active": "c304455e6d484e19",
   "lastOpenFiles": [
-    "学习/Rust/迭代器/统计数量.md",
+    "学习/Rust/自定义类型/impl与泛型.md",
     "学习/Rust/String/其他字符串Path,OsString等.md",
+    "学习/Rust/迭代器/统计数量.md",
     "学习/Rust/String/字符串按照字符切割.md",
     "学习/Rust/String/访问string中的字符.md",
     "学习/Rust/String/字节数组与字符串的转换.md",
@@ -204,7 +205,6 @@
     "阅读学习/Rust 程序设计第二版/002-基本类型/005-字符.md",
     "阅读学习/Rust 程序设计第二版/002-基本类型/004 布尔.md",
     "阅读学习/Rust 程序设计第二版/002-基本类型/003-浮点数.md",
-    "阅读学习/Rust 程序设计第二版/002-基本类型/002-运算溢出.md",
     "阅读学习/Rust 程序设计第二版/003-所有权与移动",
     "积累/Python/assets/1714817099-f220c9bc2f8147e9d4e396d578a23fbb.png",
     "积累/Python/assets/1714817099-f179f872929e747991ebb3bdb21ddfe8.png",

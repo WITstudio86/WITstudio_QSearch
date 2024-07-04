@@ -3,5 +3,30 @@
 - 需要在使用这个类型的同时将 Trait 也 use 到当前的 scope
 
 ```rust
+use mode_b::fun;
 
+fn main() {
+    fun()
+}
+
+mod mode_a{
+    pub trait ATrait {
+        fn play(&self){
+            println!("play");
+        }
+    }
+    pub struct AStruct;
+    impl ATrait for AStruct {}
+}
+
+mod mode_b{
+    // 下满这行注释了的话会报错
+    use super::mode_a::ATrait;
+    use super::mode_a::AStruct;
+    
+    pub fn fun(){
+        let a = AStruct;
+        a.play();
+    }
+}
 ```

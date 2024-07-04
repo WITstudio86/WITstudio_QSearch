@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习/Rust/Trait/跨模块的 Trait.md",
+                "file": "学习/Rust/Trait/将 Trait 视为对象,类型.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习/Rust/Trait/跨模块的 Trait.md",
+                "file": "学习/Rust/Trait/将 Trait 视为对象,类型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习/Rust/Trait/跨模块的 Trait.md",
+                "file": "学习/Rust/Trait/将 Trait 视为对象,类型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习/Rust/Trait/跨模块的 Trait.md"
+                "file": "学习/Rust/Trait/将 Trait 视为对象,类型.md"
               }
             }
           }
@@ -167,8 +167,9 @@
   },
   "active": "c304455e6d484e19",
   "lastOpenFiles": [
-    "学习/Rust/Trait/约束中同名方法的访问.md",
     "学习/Rust/Trait/跨模块的 Trait.md",
+    "学习/Rust/Trait/将 Trait 视为对象,类型.md",
+    "学习/Rust/Trait/约束中同名方法的访问.md",
     "学习/Rust/Trait/未命名",
     "学习/Rust/Trait/约束依赖.md",
     "学习/Rust/迭代器/iter,into_iter,iter_mut.md",
@@ -205,7 +206,6 @@
     "阅读学习/Rust 程序设计第二版/002-基本类型/附件/Pasted image 20240430215518.png",
     "阅读学习/Rust 程序设计第二版/002-基本类型/011-类型别名.md",
     "阅读学习/Rust 程序设计第二版/002-基本类型/010-字符串.md",
-    "阅读学习/Rust 程序设计第二版/002-基本类型/009-向量.md",
     "积累/Python/assets/1714817099-f220c9bc2f8147e9d4e396d578a23fbb.png",
     "积累/Python/assets/1714817099-f179f872929e747991ebb3bdb21ddfe8.png",
     "积累/Python/assets/1714817099-e3bd9494efcafca9c25d7d7af983092c.png",

@@ -22,3 +22,7 @@ fn main() {
     println!("{}", circle.to_string());
 }
 ```
+
+> [11｜常见trait解析：标准库中的常见trait应该怎么用？-Rust 语言从入门到实战-极客时间 (geekbang.org)](https://time.geekbang.org/column/article/724942)
+
+

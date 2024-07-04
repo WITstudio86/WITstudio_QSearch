@@ -1,6 +1,9 @@
 - `iter()` 获取由元素的不可变引用组成的迭代器
+	- `for x in &i` 等同于 `for x in i.iter()`
 - `iter_mut()` 获取由元素的可变引用组成的迭代器
+	- `for x in &mut i` 等同于 `for x in i.iter_mut()`
 - `into_iter()` 获取元素所有权组成的迭代器
+	- `for x in i` 等同于 `for x in i.intoiter()`
 
 ```rust
 fn main() {

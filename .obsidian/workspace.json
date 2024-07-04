@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习/Rust/迭代器/累加等累计算.md",
+                "file": "学习/Rust/mod/mod 使用.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习/Rust/迭代器/累加等累计算.md",
+                "file": "学习/Rust/mod/mod 使用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习/Rust/迭代器/累加等累计算.md",
+                "file": "学习/Rust/mod/mod 使用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习/Rust/迭代器/累加等累计算.md"
+                "file": "学习/Rust/mod/mod 使用.md"
               }
             }
           }
@@ -167,8 +167,11 @@
   },
   "active": "c304455e6d484e19",
   "lastOpenFiles": [
-    "学习/Rust/Trait/限制数字.md",
     "学习/Rust/迭代器/累加等累计算.md",
+    "学习/Rust/mod/mod 使用.md",
+    "学习/Rust/库/std/获取数据所占字节.md",
+    "学习/Rust/mod",
+    "学习/Rust/Trait/限制数字.md",
     "学习/Rust/迭代器",
     "学习/Rust/Trait/ToString Trait.md",
     "学习/Rust/函数闭包/简单闭包.md",
@@ -202,10 +205,7 @@
     "阅读学习/Rust 程序设计第二版/001-导览/004-命令行.md",
     "阅读学习/Rust 程序设计第二版/001-导览/003-测试.md",
     "阅读学习/Rust 程序设计第二版/001-导览/002-assert.md",
-    "阅读学习/Rust 程序设计第二版/001-导览/001-安装与简单配置.md",
     "阅读学习/Rust 程序设计第二版/003-所有权与移动",
-    "阅读学习/Rust 程序设计第二版/002-基本类型",
-    "学习/Rust/库/from crates/随机数.md",
     "积累/Python/assets/1714817099-f220c9bc2f8147e9d4e396d578a23fbb.png",
     "积累/Python/assets/1714817099-f179f872929e747991ebb3bdb21ddfe8.png",
     "积累/Python/assets/1714817099-e3bd9494efcafca9c25d7d7af983092c.png",

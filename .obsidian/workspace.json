@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1a186d844b04e07e",
+        "id": "b41a9691d09e4909",
         "type": "tabs",
         "children": [
           {
-            "id": "c304455e6d484e19",
+            "id": "39619f91f165abd6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "学习/Rust/库/tokio/轻量级线程.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -101,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习/Rust/库/tokio/轻量级线程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习/Rust/库/tokio/轻量级线程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "学习/Rust/库/tokio/轻量级线程.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -165,10 +157,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c304455e6d484e19",
+  "active": "39619f91f165abd6",
   "lastOpenFiles": [
-    "学习/Rust/库/tokio/tokio 计时器.md",
     "学习/Rust/库/tokio/轻量级线程.md",
+    "学习/Rust/库/tokio/tokio 计时器.md",
     "学习/Rust/库/tokio/tokio文件读取.md",
     "学习/Rust/库/tokio/tokio文件写入.md",
     "学习/Rust/Trait/标准库常用 Trait.md",

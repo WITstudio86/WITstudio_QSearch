@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习/Rust/库/tokio/tokio 计时器.md",
+                "file": "学习/Rust/库/tokio/轻量级线程.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习/Rust/库/tokio/tokio 计时器.md",
+                "file": "学习/Rust/库/tokio/轻量级线程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习/Rust/库/tokio/tokio 计时器.md",
+                "file": "学习/Rust/库/tokio/轻量级线程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习/Rust/库/tokio/tokio 计时器.md"
+                "file": "学习/Rust/库/tokio/轻量级线程.md"
               }
             }
           }
@@ -167,8 +167,9 @@
   },
   "active": "c304455e6d484e19",
   "lastOpenFiles": [
-    "学习/Rust/库/tokio/tokio文件读取.md",
     "学习/Rust/库/tokio/tokio 计时器.md",
+    "学习/Rust/库/tokio/轻量级线程.md",
+    "学习/Rust/库/tokio/tokio文件读取.md",
     "学习/Rust/库/tokio/tokio文件写入.md",
     "学习/Rust/Trait/标准库常用 Trait.md",
     "学习/Rust/库/tokio",
@@ -201,7 +202,6 @@
     "阅读学习/rust第一课/002 基础篇/002-实用 cli 小工具.md",
     "学习/Rust/Cargo/指令.md",
     "阅读学习/rust第一课/002 基础篇",
-    "阅读学习/rust第一课/001 前置篇/002-编程中的基本概念.md",
     "阅读学习/rust第一课/001 前置篇/附件/Pasted image 20240625172909.png",
     "阅读学习/rust第一课/001 前置篇/附件",
     "阅读学习/rust第一课/001 前置篇",

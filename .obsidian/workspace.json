@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b41a9691d09e4909",
+        "id": "833a9cda85a0ee27",
         "type": "tabs",
         "children": [
           {
-            "id": "39619f91f165abd6",
+            "id": "5bb5075c02804fda",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -166,16 +166,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "39619f91f165abd6",
+  "active": "5bb5075c02804fda",
   "lastOpenFiles": [
-    "工具与资源/database/postgresql/安装和基本使用.md",
+    "工具与资源/git/分支.md",
+    "工具与资源/git/001- git.md",
     "学习/Rust训练营/cli/001-工具及开发环境.md",
+    "工具与资源/database/postgresql/安装和基本使用.md",
     "学习/Rust训练营/cli",
     "学习/Rust训练营",
-    "工具与资源/git/分支.md",
     "工具与资源/database/postgresql",
     "工具与资源/database",
-    "工具与资源/git/001- git.md",
     "学习/Rust/宏/简单示例.md",
     "学习/Rust/宏/常见匹配方式及符号.md",
     "学习/Rust/宏",

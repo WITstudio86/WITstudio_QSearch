@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工具与资源/database/postgresql/安装和基本使用.md",
+                "file": "学习/Rust训练营/cli/001-工具及开发环境.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 288.5,
+    "collapsed": true
   },
   "right": {
     "id": "33b6ba02df4e743c",
@@ -101,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工具与资源/database/postgresql/安装和基本使用.md",
+                "file": "学习/Rust训练营/cli/001-工具及开发环境.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工具与资源/database/postgresql/安装和基本使用.md",
+                "file": "学习/Rust训练营/cli/001-工具及开发环境.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工具与资源/database/postgresql/安装和基本使用.md"
+                "file": "学习/Rust训练营/cli/001-工具及开发环境.md"
               }
             }
           }
@@ -167,8 +168,11 @@
   },
   "active": "39619f91f165abd6",
   "lastOpenFiles": [
-    "工具与资源/git/分支.md",
     "工具与资源/database/postgresql/安装和基本使用.md",
+    "学习/Rust训练营/cli/001-工具及开发环境.md",
+    "学习/Rust训练营/cli",
+    "学习/Rust训练营",
+    "工具与资源/git/分支.md",
     "工具与资源/database/postgresql",
     "工具与资源/database",
     "工具与资源/git/001- git.md",
@@ -198,12 +202,9 @@
     "学习/Rust/String/字符串按照字符切割.md",
     "学习/Rust/String/访问string中的字符.md",
     "学习/Rust/String/字节数组与字符串的转换.md",
-    "学习/Rust/迭代器/累加等累计算.md",
     "学习/Rust/mod",
     "学习/Rust/迭代器",
     "未命名.canvas",
-    "学习",
-    "学习/Rust/函数闭包",
     "阅读学习/rust第一课/001 前置篇/附件/Pasted image 20240625172909.png",
     "阅读学习/Rust 程序设计第二版/002-基本类型/附件/Pasted image 20240430215518.png",
     "积累/Python/assets/1714817099-f220c9bc2f8147e9d4e396d578a23fbb.png",

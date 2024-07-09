@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工具与资源/工作流/cloc 代码数量统计.md",
+                "file": "工具与资源/工作流/zsh的简洁配置.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工具与资源/工作流/cloc 代码数量统计.md",
+                "file": "工具与资源/工作流/zsh的简洁配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工具与资源/工作流/cloc 代码数量统计.md",
+                "file": "工具与资源/工作流/zsh的简洁配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工具与资源/工作流/cloc 代码数量统计.md"
+                "file": "工具与资源/工作流/zsh的简洁配置.md"
               }
             }
           }
@@ -167,8 +167,8 @@
   },
   "active": "5bb5075c02804fda",
   "lastOpenFiles": [
-    "学习/Rust训练营/cli/002-处理 csv.md",
     "工具与资源/工作流/cloc 代码数量统计.md",
+    "学习/Rust训练营/cli/002-处理 csv.md",
     "学习/Rust训练营/cli/001-工具及开发环境.md",
     "工具与资源/git/分支.md",
     "工具与资源/git/001- git.md",

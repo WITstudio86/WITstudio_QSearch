@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习/Rust训练营/cli/002-处理 csv.md",
+                "file": "工具与资源/工作流/cloc 代码数量统计.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5,
-    "collapsed": true
+    "width": 288.5
   },
   "right": {
     "id": "33b6ba02df4e743c",
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习/Rust训练营/cli/002-处理 csv.md",
+                "file": "工具与资源/工作流/cloc 代码数量统计.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习/Rust训练营/cli/002-处理 csv.md",
+                "file": "工具与资源/工作流/cloc 代码数量统计.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习/Rust训练营/cli/002-处理 csv.md"
+                "file": "工具与资源/工作流/cloc 代码数量统计.md"
               }
             }
           }
@@ -166,10 +165,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1d131f24fa763878",
+  "active": "5bb5075c02804fda",
   "lastOpenFiles": [
-    "学习/Rust训练营/cli/001-工具及开发环境.md",
     "学习/Rust训练营/cli/002-处理 csv.md",
+    "工具与资源/工作流/cloc 代码数量统计.md",
+    "学习/Rust训练营/cli/001-工具及开发环境.md",
     "工具与资源/git/分支.md",
     "工具与资源/git/001- git.md",
     "工具与资源/database/postgresql/安装和基本使用.md",
@@ -201,7 +201,6 @@
     "学习/Rust/自定义类型/impl与泛型.md",
     "学习/Rust/迭代器/统计数量.md",
     "学习/Rust/String/字符串按照字符切割.md",
-    "学习/Rust/String/访问string中的字符.md",
     "学习/Rust/mod",
     "学习/Rust/迭代器",
     "未命名.canvas",

@@ -11,8 +11,12 @@
             "id": "40b9c3897aa1f9a4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "工具与资源/工作流/zsh的简洁配置.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -97,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "工具与资源/工作流/zsh的简洁配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "工具与资源/工作流/zsh的简洁配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "工具与资源/工作流/zsh的简洁配置.md"
+              }
             }
           }
         ],
@@ -159,6 +167,7 @@
   },
   "active": "40b9c3897aa1f9a4",
   "lastOpenFiles": [
+    "工具与资源/工作流/zellij终端复用.md",
     "工具与资源/工作流/zsh的简洁配置.md",
     "工具与资源/工作流/atuin.md",
     "工具与资源/工作流/cloc 代码数量统计.md",
@@ -192,7 +201,6 @@
     "学习/Rust/Option和Result/在不使用 expect 等解包的情况下操作值的方法.md",
     "学习/Rust/String/其他字符串Path,OsString等.md",
     "学习/Rust/Option和Result",
-    "学习/Rust/自定义类型/impl与泛型.md",
     "学习/Rust/mod",
     "学习/Rust/迭代器",
     "未命名.canvas",

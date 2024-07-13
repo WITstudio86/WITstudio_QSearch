@@ -2,7 +2,7 @@
 
 我只需要两个插件：
 
-- ~~`zsh-autosuggestions`：这个是自动建议插件，能够自动提示你需要的命令。~~ 已经使用 [atuin](atuin.md)代替
+- `zsh-autosuggestions`：这个是自动建议插件，能够自动提示你需要的命令。 ~~已经使用 [atuin](atuin.md)代替~~ 不代替 , 一起使用
 - `zsh-syntax-highlighting`：这个是代码高亮插件，能够使你的[命令行](https://www.zhihu.com/search?q=%E5%91%BD%E4%BB%A4%E8%A1%8C&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22article%22%2C%22sourceId%22%3A%22345559097%22%7D)各个命令清晰明了。
 - `autojump` : 快速去到曾经去过的地址 , j + 大概路径即可
 

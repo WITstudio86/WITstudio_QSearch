@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工具与资源/工作流/ranger 终端文件管理.md",
+                "file": "工具与资源/工作流/终端文件管理.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工具与资源/工作流/ranger 终端文件管理.md",
+                "file": "工具与资源/工作流/终端文件管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工具与资源/工作流/ranger 终端文件管理.md",
+                "file": "工具与资源/工作流/终端文件管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工具与资源/工作流/ranger 终端文件管理.md"
+                "file": "工具与资源/工作流/终端文件管理.md"
               }
             }
           }

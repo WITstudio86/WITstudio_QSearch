@@ -18,6 +18,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "80d2d2739b9f0a73",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -31,7 +39,7 @@
       {
         "id": "aa46788816fb9849",
         "type": "tabs",
-        "dimension": 77.14285714285714,
+        "dimension": 69.47115384615384,
         "children": [
           {
             "id": "1d131f24fa763878",
@@ -71,7 +79,7 @@
       {
         "id": "1084fa699657774c",
         "type": "tabs",
-        "dimension": 22.857142857142854,
+        "dimension": 30.528846153846157,
         "children": [
           {
             "id": "7f517a9db0d9d9fb",
@@ -85,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 280.5
   },
   "right": {
     "id": "33b6ba02df4e743c",
@@ -101,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工具与资源/工作流/kitty 终端.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +125,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工具与资源/工作流/kitty 终端.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "工具与资源/工作流/kitty 终端.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -165,41 +169,41 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9989748621c461ec",
+  "active": "1d131f24fa763878",
   "lastOpenFiles": [
-    "工具与资源/工作流/终端文件管理.md",
+    "学习/Rust训练营/cli/002-处理 csv.md",
+    "学习/Rust/迭代器/统计数量.md",
+    "学习/Rust/迭代器/iter,into_iter,iter_mut.md",
+    "学习/Rust/Cargo/配置 cargo build 的目标地址.md",
+    "学习/Rust/Trait/标准库常用 Trait.md",
+    "工具与资源/工作流/atuin.md",
+    "积累/英文学习/【终极英文书单】闲书原著推荐——从入门到进阶.md",
+    "学习/Rust/String/访问string中的字符.md",
+    "积累/私有部署/nextcloud 私有部署()docker.md",
+    "学习/Rust/Range/range语法的步长.md",
+    "学习/Rust/库/tokio/轻量级线程.md",
+    "学习/Rust/库/from crates/随机数.md",
+    "学习/Rust/函数闭包/简单闭包.md",
+    "学习/Rust/自定义类型/use enum.md",
+    "工具与资源/git/变更重置.md",
+    "工具与资源/git/001- git.md",
+    "工具与资源/git/分支.md",
+    "学习/Rust/输入输出/获取输入.md",
     "工具与资源/工作流/kitty 终端.md",
+    "工具与资源/工作流/终端文件管理.md",
     "工具与资源/工作流/zsh的简洁配置.md",
     "工具与资源/工作流/zellij终端复用.md",
-    "工具与资源/工作流/atuin.md",
     "工具与资源/工作流/cloc 代码数量统计.md",
-    "学习/Rust训练营/cli/002-处理 csv.md",
     "学习/Rust训练营/cli/001-工具及开发环境.md",
-    "工具与资源/git/分支.md",
-    "工具与资源/git/001- git.md",
     "工具与资源/database/postgresql/安装和基本使用.md",
     "学习/Rust训练营/cli",
     "学习/Rust训练营",
     "工具与资源/database/postgresql",
     "工具与资源/database",
     "学习/Rust/宏/简单示例.md",
-    "学习/Rust/宏/常见匹配方式及符号.md",
     "学习/Rust/宏",
-    "学习/Rust/库/tokio/通道 channel.md",
-    "学习/Rust/库/tokio/锁.md",
-    "学习/Rust/库/tokio/tokio 计时器.md",
-    "学习/Rust/库/tokio/轻量级线程.md",
-    "学习/Rust/库/tokio/tokio文件读取.md",
-    "学习/Rust/库/tokio/tokio文件写入.md",
-    "学习/Rust/Trait/标准库常用 Trait.md",
     "学习/Rust/库/tokio",
-    "学习/Rust/Trait/将 Trait 视为对象,类型.md",
     "学习/Rust/Trait/标准库中的常用 Trait",
-    "学习/Rust/Trait/跨模块的 Trait.md",
-    "学习/Rust/Trait/约束中同名方法的访问.md",
-    "学习/Rust/Trait/约束依赖.md",
-    "学习/Rust/迭代器/iter,into_iter,iter_mut.md",
-    "学习/Rust/Option和Result/Option 和 Result 之间的转换.md",
     "学习/Rust/Option和Result",
     "学习/Rust/mod",
     "学习/Rust/迭代器",

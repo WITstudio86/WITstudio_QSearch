@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工具与资源/工作流/kitty 终端.md",
+                "file": "工具与资源/git/分支.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "工具与资源/git/分支.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "工具与资源/git/分支.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "工具与资源/git/分支.md"
+              }
             }
           }
         ],
@@ -169,8 +173,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1d131f24fa763878",
+  "active": "9989748621c461ec",
   "lastOpenFiles": [
+    "工具与资源/git/变更重置.md",
+    "工具与资源/git/分支.md",
+    "工具与资源/工作流/kitty 终端.md",
     "学习/Rust训练营/cli/002-处理 csv.md",
     "学习/Rust/迭代器/统计数量.md",
     "学习/Rust/迭代器/iter,into_iter,iter_mut.md",
@@ -185,11 +192,8 @@
     "学习/Rust/库/from crates/随机数.md",
     "学习/Rust/函数闭包/简单闭包.md",
     "学习/Rust/自定义类型/use enum.md",
-    "工具与资源/git/变更重置.md",
     "工具与资源/git/001- git.md",
-    "工具与资源/git/分支.md",
     "学习/Rust/输入输出/获取输入.md",
-    "工具与资源/工作流/kitty 终端.md",
     "工具与资源/工作流/终端文件管理.md",
     "工具与资源/工作流/zsh的简洁配置.md",
     "工具与资源/工作流/zellij终端复用.md",

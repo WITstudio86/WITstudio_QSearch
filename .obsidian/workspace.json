@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "dcd330b61c9a7822",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工具与资源/工作流/zellij终端复用.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "80d2d2739b9f0a73",
             "type": "leaf",
             "state": {
@@ -27,7 +39,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工具与资源/git/分支.md",
+                "file": "工具与资源/工作流/zellij终端复用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工具与资源/git/分支.md",
+                "file": "工具与资源/工作流/zellij终端复用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工具与资源/git/分支.md"
+                "file": "工具与资源/工作流/zellij终端复用.md"
               }
             }
           }
@@ -173,7 +186,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9989748621c461ec",
+  "active": "dcd330b61c9a7822",
   "lastOpenFiles": [
     "工具与资源/git/变更重置.md",
     "工具与资源/git/分支.md",

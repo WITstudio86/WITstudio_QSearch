@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工具与资源/工作流/zellij终端复用.md",
+                "file": "工具与资源/git/变更重置.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工具与资源/工作流/zellij终端复用.md",
+                "file": "工具与资源/git/变更重置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工具与资源/工作流/zellij终端复用.md",
+                "file": "工具与资源/git/变更重置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工具与资源/工作流/zellij终端复用.md"
+                "file": "工具与资源/git/变更重置.md"
               }
             }
           }
@@ -188,6 +188,8 @@
   },
   "active": "dcd330b61c9a7822",
   "lastOpenFiles": [
+    "工具与资源/git/001- git.md",
+    "工具与资源/工作流/zellij终端复用.md",
     "工具与资源/git/变更重置.md",
     "工具与资源/git/分支.md",
     "工具与资源/工作流/kitty 终端.md",
@@ -205,11 +207,9 @@
     "学习/Rust/库/from crates/随机数.md",
     "学习/Rust/函数闭包/简单闭包.md",
     "学习/Rust/自定义类型/use enum.md",
-    "工具与资源/git/001- git.md",
     "学习/Rust/输入输出/获取输入.md",
     "工具与资源/工作流/终端文件管理.md",
     "工具与资源/工作流/zsh的简洁配置.md",
-    "工具与资源/工作流/zellij终端复用.md",
     "工具与资源/工作流/cloc 代码数量统计.md",
     "学习/Rust训练营/cli/001-工具及开发环境.md",
     "工具与资源/database/postgresql/安装和基本使用.md",
